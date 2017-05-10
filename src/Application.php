@@ -13,7 +13,7 @@ class Application
 {
 	public function run()
 	{
-
+		echo 11;
 	}
 
 }
